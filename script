@@ -1,0 +1,12 @@
+#!/bin/bash
+
+echo -e "\e[0m Sample Text, code: 0 \e[m"
+echo -e "\e[1m Sample Text, code: 1 \e[m"
+echo -e "\e[2m Sample Text, code: 2 \e[m"
+echo -e "\e[3m Sample Text, code: 3 \e[m"
+echo -e "\e[4m Sample Text, code: 4 \e[m"
+echo -e "\e[5m Sample Text, code: 5 \e[m"
+echo -e "\e[6m Sample Text, code: 6 \e[m"
+echo -e "\e[7m Sample Text, code: 7 \e[m"
+echo -e "\e[8m Sample Text, code: 8 \e[m"
+echo -e "\e[9m Sample Text, code: 9 \e[m"
